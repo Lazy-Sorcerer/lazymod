@@ -1,0 +1,10 @@
+USA = {
+	color = { 66  94  193 }
+	
+	country_type = colonial
+	
+	tier = empire
+	
+	cultures = { yankee dixie }
+	capital = STATE_MARYLAND
+}
