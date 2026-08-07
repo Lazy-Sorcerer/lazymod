@@ -22,6 +22,7 @@ party_loyalty = {
 	controller = CSA
 	owner = CSA
 	add_core = CSA
+	remove_core = USA
 	state_building = {
 		level = 1
 		building = liquor_distillery

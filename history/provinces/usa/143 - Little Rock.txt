@@ -1,6 +1,8 @@
 owner = USA
-controller = USA
-add_core = USA 
+
+controller = USA
+
+add_core = USA 
 add_core = CHE
 trade_goods = grain
 life_rating = 35
@@ -9,4 +11,5 @@ life_rating = 35
 	owner = CSA
 	add_core = CSA
 	remove_core = CHE
+	remove_core = USA
 }

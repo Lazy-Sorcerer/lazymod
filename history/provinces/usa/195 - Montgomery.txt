@@ -11,11 +11,12 @@ party_loyalty = {
 
 1861.1.1 = {
 	party_loyalty = {
-	ideology = conservative
-	loyalty_value = 20
-}
+		ideology = conservative
+		loyalty_value = 20
+	}
 	controller = CSA
 	owner = CSA
 	add_core = CSA
+	remove_core = USA
 }
 1861.1.1 = { railroad = 3 }

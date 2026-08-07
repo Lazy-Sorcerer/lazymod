@@ -7,6 +7,7 @@ life_rating = 35
 	controller = CSA
 	owner = CSA
 	add_core = CSA
+	remove_core = USA
 }
 1861.1.1 = { 
 	railroad = 3 

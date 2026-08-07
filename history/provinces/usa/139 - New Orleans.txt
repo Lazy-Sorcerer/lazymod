@@ -8,6 +8,7 @@ naval_base = 1
 	controller = CSA
 	owner = CSA
 	add_core = CSA
+	remove_core = USA
 	state_building = {
 		level = 1
 		building = ammunition_factory
