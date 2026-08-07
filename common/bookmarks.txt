@@ -15,3 +15,12 @@ bookmark =
 	cameraX = 1270 
 	cameraY = 1450
 }
+
+bookmark =
+{
+	name = "WW1_NAME"
+	desc = "WW1_DESC"
+	date = 1905.9.6
+	cameraX = 2950 
+	cameraY = 1550
+}
