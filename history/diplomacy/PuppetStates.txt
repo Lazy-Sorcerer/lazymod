@@ -1,4 +1,18 @@
 vassal = {
+	first = SWE
+	second = NOR
+	start_date = 1814.11.4
+	end_date = 1904.12.31 #Actually 1905.10.26
+}
+
+vassal = {
+	first = JAP
+	second = KOR
+	start_date = 1905.9.5
+	end_date = 1910.22.8
+}
+
+vassal = {
 	first = ENG
 	second = CAN
 	start_date = 1865.1.1
