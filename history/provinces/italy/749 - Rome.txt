@@ -8,3 +8,9 @@ life_rating = 35
 	add_core = ITA
 }
 1861.1.1 = { railroad = 2 }
+
+1905.1.1 = {
+    owner = ITA
+    controller = ITA
+}
+

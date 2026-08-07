@@ -3,3 +3,10 @@ controller = AUS
 add_core = AUS
 trade_goods = grain
 life_rating = 35
+
+1905.1.1 = {
+	owner = KUK
+	controller = KUK
+    add_core = KUK
+}
+

@@ -7,3 +7,9 @@ life_rating = 35
 1861.1.1 = { 
 #	naval_base = 2
 }
+
+1905.1.1 = {
+	owner = KUK
+	controller = KUK
+    add_core = KUK
+}

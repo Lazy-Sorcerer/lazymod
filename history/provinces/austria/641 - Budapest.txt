@@ -11,3 +11,9 @@ fort = 1
 #	upgrade = yes
 #}
 1861.1.1 = { railroad = 3 }
+
+1905.1.1 = {
+	owner = KUK
+	controller = KUK
+    add_core = KUK
+}

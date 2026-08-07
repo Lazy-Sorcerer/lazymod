@@ -9,3 +9,8 @@ life_rating = 35
 #	building = lumber_mill
 #	upgrade = yes
 #}
+
+1905.1.1. = {
+    owner = BUL
+    controller = BUL
+}

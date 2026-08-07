@@ -13,3 +13,8 @@ life_rating = 40
 		upgrade = yes
 	}
 }
+
+1905.1.1 = {
+	owner = GER
+	controller = GER
+}

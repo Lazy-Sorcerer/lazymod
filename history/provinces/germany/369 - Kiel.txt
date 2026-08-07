@@ -19,3 +19,8 @@ naval_base = 1
 	owner = AUS
 	controller = AUS
 }
+
+1905.1.1 = {
+	owner = GER
+	controller = GER
+}
