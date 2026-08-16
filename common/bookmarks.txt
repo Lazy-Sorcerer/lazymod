@@ -18,18 +18,18 @@ bookmark =
 
 bookmark =
 {
-	name = "WW1-ACW_NAME"
-	desc = "WW1-ACW_DESC"
-	date = 1905.9.6
-	cameraX = 1270 
-	cameraY = 1450
+	name = "WW1_NAME"
+	desc = "WW1_DESC"
+	date = 1901.1.1
+	cameraX = 2950 
+	cameraY = 1550
 }
 
 bookmark =
 {
-	name = "WW1_NAME"
-	desc = "WW1_DESC"
-	date = 1905.9.7
-	cameraX = 2950 
-	cameraY = 1550
+	name = "WW1-ACW_NAME"
+	desc = "WW1-ACW_DESC"
+	date = 1901.1.2
+	cameraX = 1270 
+	cameraY = 1450
 }

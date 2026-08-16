@@ -1,5 +1,25 @@
-owner = MEX
+owner = MEX
 controller = MEX
-add_core = MEXadd_core = TEX
+add_core = MEX
+add_core = TEX
 trade_goods = cattle
-life_rating = 351861.1.1 = {	controller = CSA	owner = CSA	add_core = CSA}
+life_rating = 35
+
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	remove_core = USA
+}
+
+1901.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+}
+
+1901.1.2 = {
+	owner = CSA
+	controller = CSA
+	remove_core = USA
+}

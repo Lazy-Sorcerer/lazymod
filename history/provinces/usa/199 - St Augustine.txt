@@ -5,11 +5,24 @@ trade_goods = cotton
 life_rating = 35
 colony = 2
 is_slave = yes
+
 1861.1.1 = {
 	colony = 0
-
 	controller = CSA
 	owner = CSA
 	add_core = CSA
+	remove_core = USA
 	railroad = 3 
+}
+
+1901.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+}
+
+1901.1.2 = {
+	owner = CSA
+	controller = CSA
+	remove_core = USA
 }

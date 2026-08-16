@@ -7,7 +7,7 @@ add_core = PLC
 trade_goods = cattle
 life_rating = 40
 
-1905.1.1 = {
+1901.1.1 = {
 	owner = GER
 	controller = GER
 }

@@ -3,14 +3,28 @@ controller = USA
 add_core = USA
 trade_goods = iron
 life_rating = 35
+
 1861.1.1 = {
 	controller = CSA
 	owner = CSA
 	add_core = CSA
+	remove_core = USA
+	railroad = 3
 	state_building = {
 		level = 1
 		building = canned_food_factory
 		upgrade = yes
 	}
 }
-1861.1.1 = { railroad = 3 }
+
+1901.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+}
+
+1901.1.2 = {
+	owner = CSA
+	controller = CSA
+	remove_core = USA
+}

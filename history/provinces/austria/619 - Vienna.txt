@@ -28,7 +28,7 @@ fort = 1
 	}
 }
 
-1905.1.1 = {
+1901.1.1 = {
 	owner = KUK
 	controller = KUK
     add_core = KUK

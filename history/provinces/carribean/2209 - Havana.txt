@@ -5,7 +5,19 @@ trade_goods = tobacco
 life_rating = 35
 naval_base = 1
 colonial = 2
-1861.1.1 = { railroad = 2 }
+
 1861.1.1 = {
 	naval_base = 2
+	railroad = 2
+}
+
+1901.1.1 = {
+	owner = CUB
+	controller = CUB
+}
+
+1901.1.2 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
 }
