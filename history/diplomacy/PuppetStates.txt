@@ -2,7 +2,7 @@ vassal = {
 	first = SWE
 	second = NOR
 	start_date = 1814.11.4
-	end_date = 1904.12.31 #Actually 1905.10.26
+	end_date = 1905.10.26
 }
 
 vassal = {

@@ -1,5 +1,11 @@
 #Sphere of Influence
 
+GXI = {
+	value = 100
+	level = 5
+	influence_value = 100
+}
+
 CAN = {
 	value = 200
 	level = 5
