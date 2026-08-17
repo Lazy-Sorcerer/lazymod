@@ -4,3 +4,9 @@ add_core = AST
 trade_goods = grain
 life_rating = 20
 colonial = 2
+
+1901.1.1 = { 
+	owner = AST
+	controller = AST
+	colonial = 2
+}

@@ -5,11 +5,16 @@ trade_goods = wool
 life_rating = 30
 colonial = 2
 1861.1.1 = {
-	colonial = 2
+	railroad = 1
+}
+
+1901.1.1 = { 
+	owner = AST
+	controller = AST
+	colonial = 0
 	state_building = {
 		level = 1
 		building = fabric_factory
 		upgrade = yes
 	}
 }
-1861.1.1 = { railroad = 1 }

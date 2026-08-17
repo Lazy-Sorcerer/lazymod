@@ -5,7 +5,8 @@ trade_goods = grain
 life_rating = 30
 colonial = 2
 1861.1.1 = {
-	colonial = 0
+	railroad = 1 
+	naval_base = 1
 	state_building = {
 		level = 1
 		building = steel_factory
@@ -17,7 +18,8 @@ colonial = 2
 		upgrade = yes
 	}
 }
-1861.1.1 = { 
-	railroad = 1 
-	naval_base = 1
+1901.1.1 = { 
+	owner = AST
+	controller = AST
+	colonial = 0
 }

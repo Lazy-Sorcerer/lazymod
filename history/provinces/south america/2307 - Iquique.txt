@@ -4,3 +4,8 @@ add_core = PEU
 add_core = CHL
 trade_goods = cattle
 life_rating = 35
+
+1901.1.1 = {
+    owner = CHL
+    controller = CHL
+}
