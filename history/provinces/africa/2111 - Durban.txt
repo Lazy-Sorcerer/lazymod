@@ -5,3 +5,9 @@ add_core = NAL
 add_core = SAF
 trade_goods = wool
 life_rating = 35
+
+1901.1.1 = {
+    owner = ENG
+    controller = ENG
+    colonial = 2
+}

@@ -6,3 +6,9 @@ colonial = 2
 1861.1.1 = {
 	naval_base = 1
 }
+
+1901.1.1 = {
+    owner = POR
+    controller = POR
+    colony = 2
+}

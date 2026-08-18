@@ -6,3 +6,9 @@ life_rating = 15
 	life_rating = 30
 	add_core = ZAN
 }
+
+1901.1.1 = {
+    owner = GER
+    controller = GER
+    colony = 2
+}
