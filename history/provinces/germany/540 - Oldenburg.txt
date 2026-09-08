@@ -13,7 +13,7 @@ life_rating = 40
 	naval_base = 1 #Wilhelmshaven
 }
 
-1901.1.1 = {
+1881.8.2 = {
 	owner = GER
 	controller = GER
 }

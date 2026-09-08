@@ -10,7 +10,7 @@ life_rating = 35
 	controller = ZAN
 }
 
-1901.1.1 = {
+1881.8.2 = {
     owner = ENG
     controller = ENG
     colony = 2

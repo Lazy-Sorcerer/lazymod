@@ -2,7 +2,7 @@ add_core = AST
 trade_goods = cattle
 life_rating = 20
 
-1901.1.1 = { 
+1881.8.2 = { 
 	owner = AST
 	controller = AST
 	colonial = 2

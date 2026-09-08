@@ -11,13 +11,13 @@ life_rating = 35
 	remove_core = USA
 }
 
-1901.1.1 = {
+1881.8.2 = {
 	owner = USA
 	controller = USA
 	add_core = USA
 }
 
-1901.1.2 = {
+1881.8.3 = {
 	owner = CSA
 	controller = CSA
 	remove_core = USA

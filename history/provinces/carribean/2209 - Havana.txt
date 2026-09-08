@@ -11,12 +11,12 @@ colonial = 2
 	railroad = 2
 }
 
-1901.1.1 = {
+1881.8.2 = {
 	owner = CUB
 	controller = CUB
 }
 
-1901.1.2 = {
+1881.8.3 = {
 	owner = CSA
 	controller = CSA
 	add_core = CSA

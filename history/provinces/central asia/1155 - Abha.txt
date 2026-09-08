@@ -4,7 +4,7 @@ add_core = HDJ
 trade_goods = wool
 life_rating = 35
 
-1901.1.1 = {
+1881.8.2 = {
     owner = TUR
     controller = TUR
     colony = 2

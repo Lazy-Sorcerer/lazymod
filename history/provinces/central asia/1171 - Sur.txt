@@ -4,7 +4,7 @@ add_core = OMA
 trade_goods = fruit
 life_rating = 35
 
-1901.1.1 = {
+1881.8.2 = {
     owner = ENG
     controller = ENG
     colony = 2

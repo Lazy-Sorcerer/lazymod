@@ -7,7 +7,7 @@ colonial = 2
 	naval_base = 1
 }
 
-1901.1.1 = {
+1881.8.2 = {
     owner = POR
     controller = POR
     colony = 2

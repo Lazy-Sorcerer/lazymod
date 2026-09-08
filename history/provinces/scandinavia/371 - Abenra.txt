@@ -12,7 +12,7 @@ life_rating = 35
 	controller = PRU
 }
 
-1901.1.1 = {
+1881.8.2 = {
     owner = GER
     controller = GER
 }

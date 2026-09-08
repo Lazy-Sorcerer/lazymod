@@ -5,7 +5,7 @@ trade_goods = tropical_wood
 life_rating = 30
 colonial = 2
 
-1901.1.1 = { 
+1881.8.2 = { 
 	owner = AST
 	controller = AST
 	colonial = 0

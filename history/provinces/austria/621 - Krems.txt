@@ -4,7 +4,7 @@ add_core = AUS
 trade_goods = grain
 life_rating = 35
 
-1901.1.1 = {
+1881.8.2 = {
 	owner = KUK
 	controller = KUK
     add_core = KUK
