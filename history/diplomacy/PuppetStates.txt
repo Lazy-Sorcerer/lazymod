@@ -1,4 +1,11 @@
 vassal = {
+	first = AUS
+	second = HUN
+	start_date = 1526.8.29
+	end_date = 1848.3.15
+}
+
+vassal = {
 	first = ENG
 	second = CAN
 	start_date = 1865.1.1
