@@ -214,7 +214,7 @@ political_reforms = {
 			global_immigrant_attract = 0.01
 		}
 		wealth_weighted_voting = {
-			rich_vote = 2
+			rich_vote = 3
 			middle_vote = 1
 			poor_vote = 0
 			
@@ -229,7 +229,7 @@ political_reforms = {
 		}
 		universal_weighted_voting = {
 			rich_vote = 3
-			middle_vote = 2
+			middle_vote = 3
 			poor_vote = 1
 			
 			global_immigrant_attract = 0.04
